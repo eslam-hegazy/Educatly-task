@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72802980840",
+    "project_id": "led-saodi",
+    "storage_bucket": "led-saodi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72802980840:android:95fa692379c0808b6f8a5d",
+        "android_client_info": {
+          "package_name": "com.example.taskSa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQKj8nLzCU4ueTYvUNqU4YTNffijKFXPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
